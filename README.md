@@ -51,11 +51,14 @@ Focus Extension is your digital bodyguard against YouTube's temptations:
 
 ## Installation: Easier Than Resisting "Just One More Video"
 
-1. Download the extension
-2. Install in Chrome or Firefox
-3. Click the Focus Extension icon when on YouTube
-4. Toggle "Enable Focus Mode"
-5. Actually accomplish things with your life!
+1. Download the extension or git clone to your desired location
+2. Open Firefox Mozilla and go to extensions. Navigate by searching this command in the search bar(about:debugging)
+3. Click "This Firefox" in the sidebar on this message (Use "This Firefox" to debug extensions and service workers on this version of Firefox.)
+4. Click "Load Temporary Add-on"
+5. Navigate to your extension folder and select any file (like manifest.json)
+6. The extension will be added in the extensions tab like other extensions
+7. Toggle "Enable Focus Mode"
+8. Actually accomplish things with your life!
 
 ## Technical Features
 
