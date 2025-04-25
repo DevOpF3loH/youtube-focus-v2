@@ -2,9 +2,9 @@
 
 Hides distracting elements on YouTube to help you focus on content.
 
-<img align="left" alt="Coding" width="400" height = "200" src="/images/Ad5.PNG">
+<img  alt="Coding" width="800" height = "400" src="/images/Ad5.PNG">
 
-<img align="left" alt="Coding" width="400" height = "200" src="/images/Ad6.PNG">
+<img  alt="Coding" width="800" height = "400" src="/images/Ad6.PNG">
 
 # 🎯 Focus Extension: Your YouTube Time Rescue Squad
 
